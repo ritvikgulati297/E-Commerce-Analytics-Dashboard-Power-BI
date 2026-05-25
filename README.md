@@ -1,10 +1,10 @@
 # E-Commerce Analytics Dashboard — Power BI
 
-## 📌 Project Overview
+##  Project Overview
 An interactive business intelligence dashboard built in Power BI to analyze a Brazilian e-commerce dataset. The project covers end-to-end data cleaning, transformation, and visualization to surface insights across sales, logistics, seller performance, and customer satisfaction.
 
 
-## 🗂️ Dataset
+##  Dataset
 - **Source:** E-Commerce dataset
 - **Size:** ~15,000 rows, 44 columns
 - **Coverage:** Orders, products, sellers, payments, freight, and customer reviews
@@ -49,14 +49,14 @@ An interactive business intelligence dashboard built in Power BI to analyze a Br
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - **Power BI Desktop** — Dashboard design and DAX measures
 - **Power Query** — Data cleaning and transformation
 - **Microsoft Excel / CSV** — Raw data source
 
 ---
 
-## 🚀 How to View
+## How to View
 1. Download the `.pbix` file
 2. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop)
 3. Explore the interactive dashboard
